@@ -16,7 +16,7 @@ import edu.cuw.jacmic.tunebaby.YouTube.*;
 public class CommentReader {
 	
 	private final String REGEX_EXP = "((\\d+:)?\\d+:\\d+)\\w+";
-	private final String API_KEY = "AIzaSyCJtjXJZAaHUFetzzM-5F0hdIhyrVubv0Q";
+	private final String API_KEY = "bbbb";
 	private Pattern regex;
 	
 	public CommentReader() {
